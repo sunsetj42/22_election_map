@@ -1,1 +1,0 @@
-# 22_election_map
